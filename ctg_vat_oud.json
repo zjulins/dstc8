@@ -1,0 +1,591 @@
+{
+    "precision": 0.5921787709497207,
+    "recall": 0.5380710659898477,
+    "f1": 0.5638297872340425,
+    "error_answer": [
+        {
+            "pred": [
+                "attraction"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "attraction",
+                    4.113869905471802
+                ],
+                [
+                    "park or attraction",
+                    1.194369614124298
+                ],
+                [
+                    "park",
+                    0.689435213804245
+                ],
+                [
+                    "park or museum",
+                    0.16922371089458466
+                ],
+                [
+                    "museum",
+                    -0.2990163266658783
+                ]
+            ],
+            "context": [
+                "Find local attractions to see in SF please.",
+                "Sure, I've found 10 attractions that may interest you. How about The Historical Landmark Alcatraz?",
+                "That sounds pretty cool, however i'm looking for Tourist attraction sites. Got anything else?",
+                "No problem, Why not check out the tourist attraction Chinatown San Francisco.",
+                "I don't know, what else can you recommend? I think I would prefer more of a sports venue please."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "park"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "park",
+                    3.6730188131332397
+                ],
+                [
+                    "park",
+                    2.970948338508606
+                ],
+                [
+                    "park or attraction",
+                    2.0772026777267456
+                ],
+                [
+                    "attraction",
+                    1.3000488877296448
+                ],
+                [
+                    "park or museum",
+                    0.10029232501983643
+                ]
+            ],
+            "context": [
+                "Find local attractions to see in SF please.",
+                "Sure, I've found 10 attractions that may interest you. How about The Historical Landmark Alcatraz?",
+                "That sounds pretty cool, however i'm looking for Tourist attraction sites. Got anything else?",
+                "No problem, Why not check out the tourist attraction Chinatown San Francisco.",
+                "I don't know, what else can you recommend? I think I would prefer more of a sports venue please.",
+                "No problem. I've located 1 attraction. Oracle Park fits your sports venue request.",
+                "Is this a free attraction? Also get me the phone number there please.",
+                "Good new, the entry fee is free. The phone number is 415-972-2000.",
+                "Okay, good stuff.",
+                "Will there be anything else I can help you with?",
+                "Nope that was it. thanks."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "museum"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "museum",
+                    9.844329357147217
+                ],
+                [
+                    "museum or landmark",
+                    5.939737439155579
+                ],
+                [
+                    "park or museum",
+                    5.698147475719452
+                ],
+                [
+                    "attraction",
+                    4.04408586025238
+                ],
+                [
+                    "landmark",
+                    2.485372304916382
+                ]
+            ],
+            "context": [
+                "Can you find some attractions in the area that I could take my kids to?",
+                "Certainly, where would you like me to search?",
+                "Search in the San Francisco area.",
+                "There is an interesting Historical Landmark in the area called Alcatraz Island. Would this interest you?",
+                "That place is cool, but i'm not sure if I want to take my kids there. I do like the idea of a museum though, can you find me any other museums in the area?",
+                "I've found 10 that could interest you. How about the Cable Car Museum?",
+                "How about a museum that's a little more lively. Maybe a performing arts venue.",
+                "You should visit the War Memorial Opera House, this is a performing arts venue.",
+                "Yea, I've heard of that place before. What's their phone number?",
+                "Their phone number is 415-865-2000.",
+                "Alright, I wrote that down. Thanks for your help."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "museum"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "museum",
+                    10.334986686706543
+                ],
+                [
+                    "[CLS]",
+                    7.693656921386719
+                ],
+                [
+                    "park or museum",
+                    6.737487196922302
+                ],
+                [
+                    "museum or landmark",
+                    6.4531086683273315
+                ],
+                [
+                    "attraction",
+                    4.746015787124634
+                ]
+            ],
+            "context": [
+                "Can you find some attractions in the area that I could take my kids to?",
+                "Certainly, where would you like me to search?",
+                "Search in the San Francisco area.",
+                "There is an interesting Historical Landmark in the area called Alcatraz Island. Would this interest you?",
+                "That place is cool, but i'm not sure if I want to take my kids there. I do like the idea of a museum though, can you find me any other museums in the area?",
+                "I've found 10 that could interest you. How about the Cable Car Museum?",
+                "How about a museum that's a little more lively. Maybe a performing arts venue.",
+                "You should visit the War Memorial Opera House, this is a performing arts venue.",
+                "Yea, I've heard of that place before. What's their phone number?"
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "museum"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "museum",
+                    10.65383768081665
+                ],
+                [
+                    "park or museum",
+                    7.630705833435059
+                ],
+                [
+                    "museum or landmark",
+                    7.210269212722778
+                ],
+                [
+                    "[CLS]",
+                    6.751026630401611
+                ],
+                [
+                    "attraction",
+                    6.258028745651245
+                ]
+            ],
+            "context": [
+                "Can you find some attractions in the area that I could take my kids to?",
+                "Certainly, where would you like me to search?",
+                "Search in the San Francisco area.",
+                "There is an interesting Historical Landmark in the area called Alcatraz Island. Would this interest you?",
+                "That place is cool, but i'm not sure if I want to take my kids there. I do like the idea of a museum though, can you find me any other museums in the area?",
+                "I've found 10 that could interest you. How about the Cable Car Museum?",
+                "How about a museum that's a little more lively. Maybe a performing arts venue."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "worship"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "worship",
+                    1.3859398066997528
+                ],
+                [
+                    "attraction",
+                    0.3318750262260437
+                ],
+                [
+                    "museum",
+                    -0.5441656708717346
+                ],
+                [
+                    "museum or landmark",
+                    -0.9424461424350739
+                ],
+                [
+                    "landmark",
+                    -1.1108759641647339
+                ]
+            ],
+            "context": [
+                "I'm going out with the family and need some child-friendly places to go. Can you help?",
+                "I sure can. Where would you like me to look?",
+                "In Toronto, Ontario please",
+                "There's a cool tourist attraction called 3D Toronto Sign, what do you think about that?",
+                "Hmmm, is there anything else? Any performing arts venue?",
+                "Okay, I've found 2 you might like. There's a performing arts venue called Harbourfront Centre",
+                "Unsure.. can you see if there's anything else? Can you see if there's anything in San Fran that you don't have to pay for entry?",
+                "Okay, what about this: I've found a performing arts venue called War Memorial Opera House. What do you think about that?",
+                "Maybe.. can you grab me their phone number?",
+                "Sure, it's 415-865-2000",
+                "Thanks, I don't need anything else"
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "museum"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "museum",
+                    8.752413272857666
+                ],
+                [
+                    "museum or landmark",
+                    5.274705290794373
+                ],
+                [
+                    "park or museum",
+                    4.7134586572647095
+                ],
+                [
+                    "attraction",
+                    3.69340181350708
+                ],
+                [
+                    "landmark",
+                    2.2168006896972656
+                ]
+            ],
+            "context": [
+                "Can you find some attractions in the area that I could take my kids to?",
+                "Certainly, where would you like me to search?",
+                "Search in the San Francisco area.",
+                "There is an interesting Historical Landmark in the area called Alcatraz Island. Would this interest you?",
+                "That place is cool, but i'm not sure if I want to take my kids there. I do like the idea of a museum though, can you find me any other museums in the area?",
+                "I've found 10 that could interest you. How about the Cable Car Museum?",
+                "How about a museum that's a little more lively. Maybe a performing arts venue.",
+                "You should visit the War Memorial Opera House, this is a performing arts venue.",
+                "Yea, I've heard of that place before. What's their phone number?",
+                "Their phone number is 415-865-2000.",
+                "Alright, I wrote that down. Thanks for your help.",
+                "You're most welcome, will that be all?",
+                "Yes that is all, thank you again, and I'll talk to you later."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "park"
+            ],
+            "gold": [
+                "preserve"
+            ],
+            "top5": [
+                [
+                    "park",
+                    2.0090171098709106
+                ],
+                [
+                    "park or attraction",
+                    1.964035451412201
+                ],
+                [
+                    "attraction",
+                    1.7614389657974243
+                ],
+                [
+                    "park",
+                    1.2884031534194946
+                ],
+                [
+                    "park or museum",
+                    0.9556342363357544
+                ]
+            ],
+            "context": [
+                "Good morning, please search free attractions that are similar to the Nature Preserve for me.",
+                "Sure, Which city should I search?",
+                "please check New York City.",
+                "Ok, there are currently 4 attractions you may like. Try checking out Nature Preserve, Castle Clinton National Monument.",
+                "That sounds pretty cool. I will need one that is child friendly, what else do you got?",
+                "There are 3 attractions that may work for you. Let's start with New York Aquarium, this is also a Nature Preserve.",
+                "Okay, perfect.",
+                "Will there be anything else I can do for you?",
+                "Nope, that was all."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "park"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "park",
+                    4.394582509994507
+                ],
+                [
+                    "park",
+                    4.00437867641449
+                ],
+                [
+                    "park or attraction",
+                    2.7078990936279297
+                ],
+                [
+                    "attraction",
+                    1.5517995953559875
+                ],
+                [
+                    "park or museum",
+                    0.7645741701126099
+                ]
+            ],
+            "context": [
+                "Find local attractions to see in SF please.",
+                "Sure, I've found 10 attractions that may interest you. How about The Historical Landmark Alcatraz?",
+                "That sounds pretty cool, however i'm looking for Tourist attraction sites. Got anything else?",
+                "No problem, Why not check out the tourist attraction Chinatown San Francisco.",
+                "I don't know, what else can you recommend? I think I would prefer more of a sports venue please.",
+                "No problem. I've located 1 attraction. Oracle Park fits your sports venue request.",
+                "Is this a free attraction? Also get me the phone number there please.",
+                "Good new, the entry fee is free. The phone number is 415-972-2000.",
+                "Okay, good stuff."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "park"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "park",
+                    5.678522825241089
+                ],
+                [
+                    "park",
+                    5.217485666275024
+                ],
+                [
+                    "worship or park",
+                    4.027678608894348
+                ],
+                [
+                    "park or museum",
+                    3.1308727264404297
+                ],
+                [
+                    "worship",
+                    2.0243452191352844
+                ]
+            ],
+            "context": [
+                "Can you find some attractions I can go to when I'm traveling? I know it's cheesy, but I really like tourist traps.",
+                "Where should I look?",
+                "I'm looking for some stuff in Vancouver.",
+                "I've found 10 options so far: Bloedel Conservatory is a floral Park in BC.",
+                "That sounds nice - is there a Performing Arts Venue?"
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "attraction"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "attraction",
+                    -1.3556116819381714
+                ],
+                [
+                    "worship",
+                    -2.3619064688682556
+                ],
+                [
+                    "landmark",
+                    -2.556788682937622
+                ],
+                [
+                    "museum or landmark",
+                    -4.13272750377655
+                ],
+                [
+                    "museum",
+                    -5.541734933853149
+                ]
+            ],
+            "context": [
+                "Can you find me some places to visit. I'm looking for a performing arts venue",
+                "Where should I look for these kind of events?",
+                "Find me places in London, England, I'll be there.",
+                "There are 10 things that you might want to do. One is this palce called Alexandra Palace and it's a Performing Arts Venue",
+                "Is it free entrance? And what's their number?",
+                "Entry is actullay paid admission and their number is 20 8365 2121",
+                "Cool, what else is avaialble?",
+                "Another Performing Arts Venue you could check out is Barbican Centre",
+                "Alright, give me another option",
+                "Another Performing Arts Venue is the Cambridge Theatre",
+                "OK, thanks for the information, that's it for now."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "park"
+            ],
+            "gold": [
+                "preserve"
+            ],
+            "top5": [
+                [
+                    "park",
+                    2.511082649230957
+                ],
+                [
+                    "park or attraction",
+                    2.262699246406555
+                ],
+                [
+                    "attraction",
+                    1.8652440905570984
+                ],
+                [
+                    "park",
+                    1.522849977016449
+                ],
+                [
+                    "park or museum",
+                    1.3938125967979431
+                ]
+            ],
+            "context": [
+                "Good morning, please search free attractions that are similar to the Nature Preserve for me.",
+                "Sure, Which city should I search?",
+                "please check New York City.",
+                "Ok, there are currently 4 attractions you may like. Try checking out Nature Preserve, Castle Clinton National Monument.",
+                "That sounds pretty cool. I will need one that is child friendly, what else do you got?",
+                "There are 3 attractions that may work for you. Let's start with New York Aquarium, this is also a Nature Preserve.",
+                "Okay, perfect."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "park"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "park",
+                    3.5525487661361694
+                ],
+                [
+                    "worship",
+                    2.2421681880950928
+                ],
+                [
+                    "worship or park",
+                    1.933417409658432
+                ],
+                [
+                    "park",
+                    1.0579185783863068
+                ],
+                [
+                    "park or museum",
+                    0.7692131400108337
+                ]
+            ],
+            "context": [
+                "Can you find some attractions I can go to when I'm traveling? I know it's cheesy, but I really like tourist traps.",
+                "Where should I look?",
+                "I'm looking for some stuff in Vancouver.",
+                "I've found 10 options so far: Bloedel Conservatory is a floral Park in BC.",
+                "That sounds nice - is there a Performing Arts Venue?",
+                "The Orpheum is a Performing Arts Venue, it's the permanent home of the Vancouver Symphony Orchestra.",
+                "Yeah, that sounds okay too. What else is there?"
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        },
+        {
+            "pred": [
+                "park"
+            ],
+            "gold": [
+                "venue"
+            ],
+            "top5": [
+                [
+                    "park",
+                    6.150092601776123
+                ],
+                [
+                    "park",
+                    5.98502254486084
+                ],
+                [
+                    "park or attraction",
+                    4.448127627372742
+                ],
+                [
+                    "attraction",
+                    2.8814117908477783
+                ],
+                [
+                    "park or museum",
+                    2.2078914046287537
+                ]
+            ],
+            "context": [
+                "Find local attractions to see in SF please.",
+                "Sure, I've found 10 attractions that may interest you. How about The Historical Landmark Alcatraz?",
+                "That sounds pretty cool, however i'm looking for Tourist attraction sites. Got anything else?",
+                "No problem, Why not check out the tourist attraction Chinatown San Francisco.",
+                "I don't know, what else can you recommend? I think I would prefer more of a sports venue please.",
+                "No problem. I've located 1 attraction. Oracle Park fits your sports venue request.",
+                "Is this a free attraction? Also get me the phone number there please."
+            ],
+            "question": "what is the category to which the attraction belongs of browse attractions in a given city, Worship or Park or Museum or Landmark or Park or Attraction or Venue or Area or Venue or Preserve"
+        }
+    ]
+}

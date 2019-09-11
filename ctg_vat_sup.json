@@ -1,0 +1,1883 @@
+{
+    "precision": 0.9784405318002156,
+    "recall": 0.9816149963950973,
+    "f1": 0.9800251934497032,
+    "error_answer": [
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.974762916564941
+                ],
+                [
+                    "music or sports",
+                    6.915710046887398
+                ],
+                [
+                    "music",
+                    -0.23184731602668762
+                ],
+                [
+                    "[CLS]",
+                    -15.343762397766113
+                ],
+                [
+                    "the",
+                    -19.685625076293945
+                ]
+            ],
+            "context": [
+                "Is there any interesting events you can find for me?",
+                "Which city are you looking for events, and what genre do you prefer, such as music or sports events?",
+                "I am looking for games events near the District of Columbia",
+                "There are 10 events available, one is DC United VS Revolution occurring tomorrow at 8:30 pm at Audi Field.",
+                "Can you tell me more about this event?",
+                "This event is a football match.",
+                "That sounds good, but can you find me other events that take place on the 9th of this month?",
+                "There are 7 events occurring on March 9th, the El Salvador VS Haiti event at RFK Stadium will occur at 8 pm, would you be interested in that?",
+                "What is the address of the event, and can you tell me more about it?",
+                "This event is located at 2400 East Capitol Street Southeast, and it is also a football match.",
+                "On second thought, can you find me music events instead?",
+                "One event on March 9th at 7:30 pm will take place on Union Stage, would you be interested in the Carbon Leaf event?",
+                "Sounds great, just what I am into.",
+                "Would you like to buy tickets for the event?",
+                "Yes, please buy me tickets for the event.",
+                "What amount of tickets would you need?",
+                "Buy me 4 tickets to the event."
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "2015"
+            ],
+            "gold": [
+                "2014"
+            ],
+            "top5": [
+                [
+                    "2015",
+                    5.115968942642212
+                ],
+                [
+                    "2010",
+                    3.017697334289551
+                ],
+                [
+                    "2018",
+                    1.2915590405464172
+                ],
+                [
+                    "2012",
+                    0.6180008202791214
+                ],
+                [
+                    "[CLS]",
+                    -12.58305549621582
+                ]
+            ],
+            "context": [
+                "I want to hear a good song.",
+                "How about Only You by Ric Hassani from The African Gentleman.",
+                "Do you have something else?",
+                "How about Focus by Ariana Grande from Dangerous Woman.",
+                "How about something from '14?",
+                "How about Addicted by Popcaan from Where We Come From.",
+                "yes that is good.",
+                "Please confirm Addicted on the TV.",
+                "Change to play on speaker in the kitchen.",
+                "Confirm Change to play Addicted the kitchen speaker.",
+                "change to play on my bedroom speaker.",
+                "Confirm to play Addicted on my bedroom speaker.",
+                "I confirm. What is the genre?"
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2015"
+            ],
+            "gold": [
+                "2014"
+            ],
+            "top5": [
+                [
+                    "2015",
+                    6.734269380569458
+                ],
+                [
+                    "2015 or 2016",
+                    4.33245986700058
+                ],
+                [
+                    "2010",
+                    3.5251119136810303
+                ],
+                [
+                    "2016",
+                    1.9767897725105286
+                ],
+                [
+                    "2018",
+                    1.6366066932678223
+                ]
+            ],
+            "context": [
+                "I want to hear a good song.",
+                "How about Only You by Ric Hassani from The African Gentleman.",
+                "Do you have something else?",
+                "How about Focus by Ariana Grande from Dangerous Woman.",
+                "How about something from '14?",
+                "How about Addicted by Popcaan from Where We Come From.",
+                "yes that is good.",
+                "Please confirm Addicted on the TV.",
+                "Change to play on speaker in the kitchen.",
+                "Confirm Change to play Addicted the kitchen speaker.",
+                "change to play on my bedroom speaker."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2010"
+            ],
+            "gold": [
+                "2013"
+            ],
+            "top5": [
+                [
+                    "2010",
+                    9.686231136322021
+                ],
+                [
+                    "2018",
+                    2.054856061935425
+                ],
+                [
+                    "2017 or 2018",
+                    0.22068732976913452
+                ],
+                [
+                    "2017",
+                    -1.5760847926139832
+                ],
+                [
+                    "2012",
+                    -3.9410005807876587
+                ]
+            ],
+            "context": [
+                "I want to find a song from about six years back.",
+                "What about Alive by Sia in the This is Acting album?",
+                "What sort of music is it?",
+                "The song is a pop song.",
+                "Yes, that's it."
+            ],
+            "question": "what is the year in which the song was released of search for a song, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2010"
+            ],
+            "gold": [
+                "2013"
+            ],
+            "top5": [
+                [
+                    "2010",
+                    9.642953395843506
+                ],
+                [
+                    "2018",
+                    1.0698543787002563
+                ],
+                [
+                    "2017 or 2018",
+                    -0.522365927696228
+                ],
+                [
+                    "2017",
+                    -2.0883631706237793
+                ],
+                [
+                    "2015",
+                    -5.069729566574097
+                ]
+            ],
+            "context": [
+                "I want to find a song from about six years back.",
+                "What about Alive by Sia in the This is Acting album?",
+                "What sort of music is it?",
+                "The song is a pop song.",
+                "Yes, that's it.",
+                "Do you want to play this song?",
+                "Yes."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.248644351959229
+                ],
+                [
+                    "music or sports",
+                    6.674033939838409
+                ],
+                [
+                    "music",
+                    0.024470187723636627
+                ],
+                [
+                    "an event, music",
+                    -9.922345601022243
+                ],
+                [
+                    "[CLS]",
+                    -16.05895233154297
+                ]
+            ],
+            "context": [
+                "Is there any interesting events you can find for me?",
+                "Which city are you looking for events, and what genre do you prefer, such as music or sports events?",
+                "I am looking for games events near the District of Columbia",
+                "There are 10 events available, one is DC United VS Revolution occurring tomorrow at 8:30 pm at Audi Field.",
+                "Can you tell me more about this event?",
+                "This event is a football match.",
+                "That sounds good, but can you find me other events that take place on the 9th of this month?",
+                "There are 7 events occurring on March 9th, the El Salvador VS Haiti event at RFK Stadium will occur at 8 pm, would you be interested in that?",
+                "What is the address of the event, and can you tell me more about it?",
+                "This event is located at 2400 East Capitol Street Southeast, and it is also a football match.",
+                "On second thought, can you find me music events instead?",
+                "One event on March 9th at 7:30 pm will take place on Union Stage, would you be interested in the Carbon Leaf event?",
+                "Sounds great, just what I am into.",
+                "Would you like to buy tickets for the event?",
+                "Yes, please buy me tickets for the event.",
+                "What amount of tickets would you need?",
+                "Buy me 4 tickets to the event.",
+                "You wish to buy 4 tickets to Carbon Leaf, for March 9th in Washington D.C., correct?",
+                "That is correct, can you give me the event address?",
+                "The reservation has been made, and the avenue is located at 740 Water Street Southwest, Washington, District of Columbia 20024, United States.",
+                "Great, thanks a lot for your help!"
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.222489833831787
+                ],
+                [
+                    "music or sports",
+                    6.114787936210632
+                ],
+                [
+                    "music",
+                    -1.0739260911941528
+                ],
+                [
+                    "an event, music",
+                    -10.47154951095581
+                ],
+                [
+                    "[CLS]",
+                    -16.285709381103516
+                ]
+            ],
+            "context": [
+                "Is there any interesting events you can find for me?",
+                "Which city are you looking for events, and what genre do you prefer, such as music or sports events?",
+                "I am looking for games events near the District of Columbia",
+                "There are 10 events available, one is DC United VS Revolution occurring tomorrow at 8:30 pm at Audi Field.",
+                "Can you tell me more about this event?",
+                "This event is a football match.",
+                "That sounds good, but can you find me other events that take place on the 9th of this month?",
+                "There are 7 events occurring on March 9th, the El Salvador VS Haiti event at RFK Stadium will occur at 8 pm, would you be interested in that?",
+                "What is the address of the event, and can you tell me more about it?",
+                "This event is located at 2400 East Capitol Street Southeast, and it is also a football match.",
+                "On second thought, can you find me music events instead?",
+                "One event on March 9th at 7:30 pm will take place on Union Stage, would you be interested in the Carbon Leaf event?",
+                "Sounds great, just what I am into.",
+                "Would you like to buy tickets for the event?",
+                "Yes, please buy me tickets for the event.",
+                "What amount of tickets would you need?",
+                "Buy me 4 tickets to the event.",
+                "You wish to buy 4 tickets to Carbon Leaf, for March 9th in Washington D.C., correct?",
+                "That is correct, can you give me the event address?",
+                "The reservation has been made, and the avenue is located at 740 Water Street Southwest, Washington, District of Columbia 20024, United States.",
+                "Great, thanks a lot for your help!",
+                "Is there anything else I can be of assistance?",
+                "No, that is all, thanks."
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "2015"
+            ],
+            "gold": [
+                "2014"
+            ],
+            "top5": [
+                [
+                    "2015",
+                    11.5786771774292
+                ],
+                [
+                    "2014 or 2015",
+                    10.682973861694336
+                ],
+                [
+                    "2014",
+                    9.91270923614502
+                ],
+                [
+                    "2013 or 2014",
+                    9.223055839538574
+                ],
+                [
+                    "2012",
+                    8.692789077758789
+                ]
+            ],
+            "context": [
+                "I want to hear a good song.",
+                "How about Only You by Ric Hassani from The African Gentleman.",
+                "Do you have something else?",
+                "How about Focus by Ariana Grande from Dangerous Woman.",
+                "How about something from '14?"
+            ],
+            "question": "what is the year in which the song was released of search for a song, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "two"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "two",
+                    12.199361324310303
+                ],
+                [
+                    "2",
+                    12.168192863464355
+                ],
+                [
+                    "one or two",
+                    9.557271480560303
+                ],
+                [
+                    "1 or 2",
+                    9.505923748016357
+                ],
+                [
+                    "one",
+                    6.94200873374939
+                ]
+            ],
+            "context": [
+                "I would like an apartment with two bathrooms",
+                "In which city?",
+                "I'm looking for the apartment in Santa Rosa",
+                "An apartment with how many bedrooms?",
+                "1 baths and 1 bed rooms",
+                "There are 10 proposals, one of these is Bicentennial Apartments at 825 Russell Avenue: it has 1 bed room and 1 baths and it costs $1,500 per month",
+                "Can you find me another apartment where pets are allowed?",
+                "There are 5 solutions: Brookside East Apartments at 3329 Claremont Court, with 1 bed rooms and 1 baths. It costs $1,850 per month",
+                "What is the phone number?"
+            ],
+            "question": "what is the number of baths in the apartment of find an apartment in a city for a given number of bedrooms, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2019"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    1.5262590050697327
+                ],
+                [
+                    "2015",
+                    1.0626313388347626
+                ],
+                [
+                    "2010",
+                    0.8983967304229736
+                ],
+                [
+                    "2017 or 2018",
+                    -0.11639928817749023
+                ],
+                [
+                    "2017",
+                    -1.7545817494392395
+                ]
+            ],
+            "context": [
+                "Hi i need a help, I am interesting in listening songs, Can you find songs in the album Honky Tonk Time Machine?",
+                "Sure, I will help you, I found a 3 songs for you, One of the nice song is Codigo by George Strait in the album Honky Tonk Time Machine.",
+                "Could you tell me what type of song is it?",
+                "It is a Country song",
+                "Any other songs do you have?",
+                "Do you like the song Every Little Honky Tonk Bar by George Strait in the album Honky Tonk Time Machine",
+                "it is from four years ago? What type of music is that?",
+                "It is a country song from the year 2019",
+                "Find another song from 2019",
+                "I got 1 another song for you, Do you like The Weight of the badge by george strait in the album Honky Tonk Time Machine",
+                "Yes that on i liked",
+                "Can i play the song for you?",
+                "yes, play it on speaker in the kitchen",
+                "please confirm the following details: Play the song The weight of the badge on kitchen speaker",
+                "no, play it on my bedroom speaker",
+                "please confirm the following details: play the song The weight of the badge on bedroom speaker",
+                "yes, that's good",
+                "Enjoy your music",
+                "Thank you very much for your help",
+                "Shall i help you with anything more?",
+                "No, thank you very much for your help, That's all i need."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2010"
+            ],
+            "gold": [
+                "2013"
+            ],
+            "top5": [
+                [
+                    "2010",
+                    9.496007919311523
+                ],
+                [
+                    "2018",
+                    0.2151026502251625
+                ],
+                [
+                    "2017 or 2018",
+                    -0.9241160377860069
+                ],
+                [
+                    "2017",
+                    -2.046956181526184
+                ],
+                [
+                    "2012",
+                    -5.171955585479736
+                ]
+            ],
+            "context": [
+                "I want to find a song from about six years back.",
+                "What about Alive by Sia in the This is Acting album?",
+                "What sort of music is it?",
+                "The song is a pop song.",
+                "Yes, that's it.",
+                "Do you want to play this song?",
+                "Yes.",
+                "Could you confirm that you want to play the song Alive on the TV?",
+                "No, put it on the kitchen device."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "three"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "three",
+                    12.325433731079102
+                ],
+                [
+                    "3",
+                    12.31116008758545
+                ],
+                [
+                    "one",
+                    8.68534803390503
+                ],
+                [
+                    "1",
+                    8.672536373138428
+                ],
+                [
+                    "[CLS]",
+                    -10.325939178466797
+                ]
+            ],
+            "context": [
+                "Can you call me a cab for three people?",
+                "Would you mind a shared ride?",
+                "That's fine, i'm ok with a shared ride.",
+                "Where are you headed?",
+                "I'd like to get a cab for one person to The Studio Museum in Harlem.",
+                "Please confirm the following: You want a cab ride for 1 person to The Studio Museum in Harlem. You want a shared ride.",
+                "No, actually I need to go to 1621 Travis Boulevard #300."
+            ],
+            "question": "what is the number of riders to call taxi for of call a taxi to head to a given destination, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.917397499084473
+                ],
+                [
+                    "music or sports",
+                    10.2492094039917
+                ],
+                [
+                    "music",
+                    6.6673150062561035
+                ],
+                [
+                    "an event, music",
+                    -6.50168514251709
+                ],
+                [
+                    "[CLS]",
+                    -14.604717254638672
+                ]
+            ],
+            "context": [
+                "I like Match events: can you help me find an event around Philly?",
+                "There's Eagles Vs Cowboys at Lincoln Financial Field on March 14th at 8 pm",
+                "What is the adress?",
+                "1 Lincoln Financial Field Way",
+                "Do you have other event proposals?",
+                "Of course! Owls Vs Bison, at Lincoln Financial Field, on day after tomorrow at 7:30 pm",
+                "What kind of event is it? What is the address of the place?",
+                "It's a American Football event. The address is 1 Lincoln Financial Field Way",
+                "OK it's good. Now I would like to find another type of event, a Music event for this Sunday",
+                "For day after tomorrow there's Don Broco at The foundry at 8 pm",
+                "Perfect! I want a ticket for this event!"
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "2010"
+            ],
+            "gold": [
+                "2013"
+            ],
+            "top5": [
+                [
+                    "2010",
+                    8.904749870300293
+                ],
+                [
+                    "2018",
+                    1.9706150889396667
+                ],
+                [
+                    "2017 or 2018",
+                    -0.05418211221694946
+                ],
+                [
+                    "2017",
+                    -2.065621852874756
+                ],
+                [
+                    "2012",
+                    -4.284729242324829
+                ]
+            ],
+            "context": [
+                "I want to find a song from about six years back.",
+                "What about Alive by Sia in the This is Acting album?",
+                "What sort of music is it?",
+                "The song is a pop song.",
+                "Yes, that's it.",
+                "Do you want to play this song?",
+                "Yes.",
+                "Could you confirm that you want to play the song Alive on the TV?",
+                "No, put it on the kitchen device.",
+                "Please confirm that you want to play the song Alive on the kitchen speaker.",
+                "Yep, that is right.",
+                "Enjoy listening.",
+                "Thanks! That is just what I needed."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "two"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "two",
+                    13.189636707305908
+                ],
+                [
+                    "2",
+                    13.184860706329346
+                ],
+                [
+                    "one or two",
+                    8.77206039428711
+                ],
+                [
+                    "1 or 2",
+                    8.710020542144775
+                ],
+                [
+                    "one",
+                    4.406681776046753
+                ]
+            ],
+            "context": [
+                "I would like an apartment with two bathrooms",
+                "In which city?",
+                "I'm looking for the apartment in Santa Rosa",
+                "An apartment with how many bedrooms?",
+                "1 baths and 1 bed rooms",
+                "There are 10 proposals, one of these is Bicentennial Apartments at 825 Russell Avenue: it has 1 bed room and 1 baths and it costs $1,500 per month",
+                "Can you find me another apartment where pets are allowed?"
+            ],
+            "question": "what is the number of baths in the apartment of find an apartment in a city for a given number of bedrooms, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "2"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "2",
+                    13.240135192871094
+                ],
+                [
+                    "two",
+                    13.237879276275635
+                ],
+                [
+                    "one or two",
+                    8.076541304588318
+                ],
+                [
+                    "1 or 2",
+                    8.048463702201843
+                ],
+                [
+                    "one",
+                    2.9703195095062256
+                ]
+            ],
+            "context": [
+                "I would like an apartment with two bathrooms",
+                "In which city?",
+                "I'm looking for the apartment in Santa Rosa",
+                "An apartment with how many bedrooms?",
+                "1 baths and 1 bed rooms",
+                "There are 10 proposals, one of these is Bicentennial Apartments at 825 Russell Avenue: it has 1 bed room and 1 baths and it costs $1,500 per month",
+                "Can you find me another apartment where pets are allowed?",
+                "There are 5 solutions: Brookside East Apartments at 3329 Claremont Court, with 1 bed rooms and 1 baths. It costs $1,850 per month",
+                "What is the phone number?",
+                "The phone number is 707-578-1313",
+                "ok, It's perfect for me",
+                "Do you want to book a visit to the apartment?",
+                "Yes, please, for Friday next week."
+            ],
+            "question": "what is the number of baths in the apartment of schedule a visit for a given property on a particular date, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2017"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    1.1868837475776672
+                ],
+                [
+                    "2017 or 2018",
+                    0.6844695061445236
+                ],
+                [
+                    "2017",
+                    0.1867538271471858
+                ],
+                [
+                    "2010",
+                    0.0852896086871624
+                ],
+                [
+                    "2010 or 2011",
+                    -2.559726230800152
+                ]
+            ],
+            "context": [
+                "I'd like to listen to some music. Please find me some pop music from two years ago.",
+                "There are 10 results that fit your criteria. Would you like to hear Airplane Mode by Limbo off of the album Holo?",
+                "Yes, that's the song I want to listen to. Please play it on the speaker in the kitchen.",
+                "Please verify the following details are correct. You would like to hear Airplane Mode on the Kitchen speaker. Is this correct?",
+                "No, I'd rather hear it on the speaker in the bedroom.",
+                "Please verify the following details are correct. You would like to hear Airplane Mode on the bedroom speaker. Is this correct?",
+                "Yes, please do that."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2019"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    1.4663295149803162
+                ],
+                [
+                    "2010",
+                    1.0493463277816772
+                ],
+                [
+                    "2015",
+                    0.12339198961853981
+                ],
+                [
+                    "2017 or 2018",
+                    -0.2141638994216919
+                ],
+                [
+                    "2017",
+                    -1.8858247995376587
+                ]
+            ],
+            "context": [
+                "Hi i need a help, I am interesting in listening songs, Can you find songs in the album Honky Tonk Time Machine?",
+                "Sure, I will help you, I found a 3 songs for you, One of the nice song is Codigo by George Strait in the album Honky Tonk Time Machine.",
+                "Could you tell me what type of song is it?",
+                "It is a Country song",
+                "Any other songs do you have?",
+                "Do you like the song Every Little Honky Tonk Bar by George Strait in the album Honky Tonk Time Machine",
+                "it is from four years ago? What type of music is that?",
+                "It is a country song from the year 2019",
+                "Find another song from 2019",
+                "I got 1 another song for you, Do you like The Weight of the badge by george strait in the album Honky Tonk Time Machine",
+                "Yes that on i liked",
+                "Can i play the song for you?",
+                "yes, play it on speaker in the kitchen",
+                "please confirm the following details: Play the song The weight of the badge on kitchen speaker",
+                "no, play it on my bedroom speaker",
+                "please confirm the following details: play the song The weight of the badge on bedroom speaker",
+                "yes, that's good",
+                "Enjoy your music",
+                "Thank you very much for your help"
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "two"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "two",
+                    12.980431079864502
+                ],
+                [
+                    "2",
+                    12.97463846206665
+                ],
+                [
+                    "one or two",
+                    9.76347804069519
+                ],
+                [
+                    "1 or 2",
+                    9.709639549255371
+                ],
+                [
+                    "one",
+                    6.604018688201904
+                ]
+            ],
+            "context": [
+                "I would like an apartment with two bathrooms",
+                "In which city?",
+                "I'm looking for the apartment in Santa Rosa",
+                "An apartment with how many bedrooms?",
+                "1 baths and 1 bed rooms",
+                "There are 10 proposals, one of these is Bicentennial Apartments at 825 Russell Avenue: it has 1 bed room and 1 baths and it costs $1,500 per month",
+                "Can you find me another apartment where pets are allowed?",
+                "There are 5 solutions: Brookside East Apartments at 3329 Claremont Court, with 1 bed rooms and 1 baths. It costs $1,850 per month",
+                "What is the phone number?",
+                "The phone number is 707-578-1313",
+                "ok, It's perfect for me"
+            ],
+            "question": "what is the number of baths in the apartment of find an apartment in a city for a given number of bedrooms, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "2010"
+            ],
+            "gold": [
+                "2013"
+            ],
+            "top5": [
+                [
+                    "2010",
+                    9.542054176330566
+                ],
+                [
+                    "2018",
+                    3.8510375022888184
+                ],
+                [
+                    "2017 or 2018",
+                    2.032709375023842
+                ],
+                [
+                    "2017",
+                    0.25242259353399277
+                ],
+                [
+                    "2012",
+                    -2.4679625034332275
+                ]
+            ],
+            "context": [
+                "I want to find a song from about six years back.",
+                "What about Alive by Sia in the This is Acting album?",
+                "What sort of music is it?"
+            ],
+            "question": "what is the year in which the song was released of search for a song, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "2",
+                    13.254692554473877
+                ],
+                [
+                    "two",
+                    13.2504243850708
+                ],
+                [
+                    "one or two",
+                    7.710518956184387
+                ],
+                [
+                    "1 or 2",
+                    7.668609619140625
+                ],
+                [
+                    "one",
+                    2.2254782915115356
+                ]
+            ],
+            "context": [
+                "I would like an apartment with two bathrooms",
+                "In which city?",
+                "I'm looking for the apartment in Santa Rosa",
+                "An apartment with how many bedrooms?",
+                "1 baths and 1 bed rooms",
+                "There are 10 proposals, one of these is Bicentennial Apartments at 825 Russell Avenue: it has 1 bed room and 1 baths and it costs $1,500 per month",
+                "Can you find me another apartment where pets are allowed?",
+                "There are 5 solutions: Brookside East Apartments at 3329 Claremont Court, with 1 bed rooms and 1 baths. It costs $1,850 per month",
+                "What is the phone number?",
+                "The phone number is 707-578-1313",
+                "ok, It's perfect for me",
+                "Do you want to book a visit to the apartment?",
+                "Yes, please, for Friday next week.",
+                "You want to visit Brookside East Apartments on next Friday: do you confirm?",
+                "Yes, I confirm? Is the apartment empty or already furnished?",
+                "It's not furnished. Your visit is booked!",
+                "Thank you so much, It's all!"
+            ],
+            "question": "what is the number of baths in the apartment of schedule a visit for a given property on a particular date, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "2"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "2",
+                    13.193601131439209
+                ],
+                [
+                    "two",
+                    13.19276237487793
+                ],
+                [
+                    "one or two",
+                    8.166982531547546
+                ],
+                [
+                    "1 or 2",
+                    8.133281707763672
+                ],
+                [
+                    "one",
+                    3.2086894512176514
+                ]
+            ],
+            "context": [
+                "I would like an apartment with two bathrooms",
+                "In which city?",
+                "I'm looking for the apartment in Santa Rosa",
+                "An apartment with how many bedrooms?",
+                "1 baths and 1 bed rooms",
+                "There are 10 proposals, one of these is Bicentennial Apartments at 825 Russell Avenue: it has 1 bed room and 1 baths and it costs $1,500 per month",
+                "Can you find me another apartment where pets are allowed?",
+                "There are 5 solutions: Brookside East Apartments at 3329 Claremont Court, with 1 bed rooms and 1 baths. It costs $1,850 per month",
+                "What is the phone number?",
+                "The phone number is 707-578-1313",
+                "ok, It's perfect for me",
+                "Do you want to book a visit to the apartment?",
+                "Yes, please, for Friday next week.",
+                "You want to visit Brookside East Apartments on next Friday: do you confirm?",
+                "Yes, I confirm? Is the apartment empty or already furnished?"
+            ],
+            "question": "what is the number of baths in the apartment of schedule a visit for a given property on a particular date, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.929802894592285
+                ],
+                [
+                    "music or sports",
+                    8.948758840560913
+                ],
+                [
+                    "music",
+                    3.9732344150543213
+                ],
+                [
+                    "an event, music",
+                    -7.8952460289001465
+                ],
+                [
+                    "[CLS]",
+                    -14.570690155029297
+                ]
+            ],
+            "context": [
+                "I like Match events: can you help me find an event around Philly?",
+                "There's Eagles Vs Cowboys at Lincoln Financial Field on March 14th at 8 pm",
+                "What is the adress?",
+                "1 Lincoln Financial Field Way",
+                "Do you have other event proposals?",
+                "Of course! Owls Vs Bison, at Lincoln Financial Field, on day after tomorrow at 7:30 pm",
+                "What kind of event is it? What is the address of the place?",
+                "It's a American Football event. The address is 1 Lincoln Financial Field Way",
+                "OK it's good. Now I would like to find another type of event, a Music event for this Sunday",
+                "For day after tomorrow there's Don Broco at The foundry at 8 pm",
+                "Perfect! I want a ticket for this event!",
+                "A ticket for how many people?",
+                "We are 4 people: 4 tickets"
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "2015"
+            ],
+            "gold": [
+                "2014"
+            ],
+            "top5": [
+                [
+                    "2015",
+                    5.002455472946167
+                ],
+                [
+                    "2010",
+                    2.624486565589905
+                ],
+                [
+                    "2012",
+                    1.8372284173965454
+                ],
+                [
+                    "2018",
+                    1.2679306268692017
+                ],
+                [
+                    "[CLS]",
+                    -14.097179412841797
+                ]
+            ],
+            "context": [
+                "I want to hear a good song.",
+                "How about Only You by Ric Hassani from The African Gentleman.",
+                "Do you have something else?",
+                "How about Focus by Ariana Grande from Dangerous Woman.",
+                "How about something from '14?",
+                "How about Addicted by Popcaan from Where We Come From.",
+                "yes that is good.",
+                "Please confirm Addicted on the TV.",
+                "Change to play on speaker in the kitchen.",
+                "Confirm Change to play Addicted the kitchen speaker.",
+                "change to play on my bedroom speaker.",
+                "Confirm to play Addicted on my bedroom speaker.",
+                "I confirm. What is the genre?",
+                "It is a Reggae song and enjoy.",
+                "Thank you that is all I need."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    14.21282148361206
+                ],
+                [
+                    "music or sports",
+                    8.397763848304749
+                ],
+                [
+                    "music",
+                    2.5449814796447754
+                ],
+                [
+                    "[CLS]",
+                    -14.457664489746094
+                ],
+                [
+                    "the",
+                    -19.59342384338379
+                ]
+            ],
+            "context": [
+                "Is there any interesting events you can find for me?",
+                "Which city are you looking for events, and what genre do you prefer, such as music or sports events?",
+                "I am looking for games events near the District of Columbia",
+                "There are 10 events available, one is DC United VS Revolution occurring tomorrow at 8:30 pm at Audi Field.",
+                "Can you tell me more about this event?",
+                "This event is a football match.",
+                "That sounds good, but can you find me other events that take place on the 9th of this month?",
+                "There are 7 events occurring on March 9th, the El Salvador VS Haiti event at RFK Stadium will occur at 8 pm, would you be interested in that?",
+                "What is the address of the event, and can you tell me more about it?",
+                "This event is located at 2400 East Capitol Street Southeast, and it is also a football match.",
+                "On second thought, can you find me music events instead?",
+                "One event on March 9th at 7:30 pm will take place on Union Stage, would you be interested in the Carbon Leaf event?",
+                "Sounds great, just what I am into."
+            ],
+            "question": "what is the type of event of find events in a given city, Music or Sports"
+        },
+        {
+            "pred": [
+                "two"
+            ],
+            "gold": [
+                "4",
+                "four"
+            ],
+            "top5": [
+                [
+                    "two",
+                    13.08690595626831
+                ],
+                [
+                    "2",
+                    13.084063529968262
+                ],
+                [
+                    "four",
+                    6.431081056594849
+                ],
+                [
+                    "4",
+                    6.377870559692383
+                ],
+                [
+                    "[CLS]",
+                    -13.184585571289062
+                ]
+            ],
+            "context": [
+                "I will be traveling so I am in need of finding a bus.",
+                "Can you tell me the time when you will be leaving and the location from where you will leave?",
+                "I will be starting my journey on 4th of March and I will be leaving from Long Beach to arrive in Sacramento, CA.",
+                "I see that 9 buses suit with what you want. The bus will be leaving at 6:50 am and it will cost you $71. The bus trip has 1 transfer.",
+                "Can you tell me the bus station where I will arrive at?",
+                "The station where your bus will be arriving is Sacramento Valley Station.",
+                "Can you tell me the bus station where I will be starting my trip?",
+                "The departing bus station is Downtown Station.",
+                "Can you see if other buses are available?",
+                "Your bus will be leaving at 7 am and it will be costing you $72 and it has 1 transfer.",
+                "Is it possible for you to see if there are other buses available?",
+                "There is a bus which leaves at 8:30 am and the ticket costs $72, and it is a trip with 1 transfer.",
+                "That seems nice.",
+                "Would you like having tickets for this bus trip?",
+                "Actually yes, I want to book tickets for this bus.",
+                "Can you tell me the number of the tickets you want?",
+                "I will be traveling with my partner, so I need tickets for 2 people.",
+                "Please confirm that you want to have tickets for 2 people for the bus leaving from Long Beach to Sacramento which leaves next Monday at 8:30 am.",
+                "That's not right. Some friends of mine will be coming too, so I need tickets for four people.",
+                "Can you confirm once again that you need tickets for 4 people for the bus leaving on next Monday.",
+                "That seems right to me. Can you tell me the bus station of the arrival?"
+            ],
+            "question": "what is the number of travelers for journey of buy tickets for a bus journey, 1 or 2 or 3 or 4 or 5 or one or two or three or four or five"
+        },
+        {
+            "pred": [
+                "two"
+            ],
+            "gold": [
+                "4",
+                "four"
+            ],
+            "top5": [
+                [
+                    "two",
+                    13.112857341766357
+                ],
+                [
+                    "2",
+                    13.110503673553467
+                ],
+                [
+                    "four",
+                    6.932531118392944
+                ],
+                [
+                    "4",
+                    6.919841051101685
+                ],
+                [
+                    "[CLS]",
+                    -14.681365966796875
+                ]
+            ],
+            "context": [
+                "I will be traveling so I am in need of finding a bus.",
+                "Can you tell me the time when you will be leaving and the location from where you will leave?",
+                "I will be starting my journey on 4th of March and I will be leaving from Long Beach to arrive in Sacramento, CA.",
+                "I see that 9 buses suit with what you want. The bus will be leaving at 6:50 am and it will cost you $71. The bus trip has 1 transfer.",
+                "Can you tell me the bus station where I will arrive at?",
+                "The station where your bus will be arriving is Sacramento Valley Station.",
+                "Can you tell me the bus station where I will be starting my trip?",
+                "The departing bus station is Downtown Station.",
+                "Can you see if other buses are available?",
+                "Your bus will be leaving at 7 am and it will be costing you $72 and it has 1 transfer.",
+                "Is it possible for you to see if there are other buses available?",
+                "There is a bus which leaves at 8:30 am and the ticket costs $72, and it is a trip with 1 transfer.",
+                "That seems nice.",
+                "Would you like having tickets for this bus trip?",
+                "Actually yes, I want to book tickets for this bus.",
+                "Can you tell me the number of the tickets you want?",
+                "I will be traveling with my partner, so I need tickets for 2 people.",
+                "Please confirm that you want to have tickets for 2 people for the bus leaving from Long Beach to Sacramento which leaves next Monday at 8:30 am.",
+                "That's not right. Some friends of mine will be coming too, so I need tickets for four people.",
+                "Can you confirm once again that you need tickets for 4 people for the bus leaving on next Monday.",
+                "That seems right to me. Can you tell me the bus station of the arrival?",
+                "Your tickets are booked. The arrival station of your bus trip will be Sacramento Valley Station.",
+                "I appreciate your help very much. That would be all."
+            ],
+            "question": "what is the number of travelers for journey of buy tickets for a bus journey, 1 or 2 or 3 or 4 or 5 or one or two or three or four or five"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2017"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    1.4353753328323364
+                ],
+                [
+                    "2017 or 2018",
+                    0.9203022718429565
+                ],
+                [
+                    "2017",
+                    0.40769442915916443
+                ],
+                [
+                    "2010",
+                    0.0899333544075489
+                ],
+                [
+                    "2010 or 2011",
+                    -2.488423064351082
+                ]
+            ],
+            "context": [
+                "I'd like to listen to some music. Please find me some pop music from two years ago.",
+                "There are 10 results that fit your criteria. Would you like to hear Airplane Mode by Limbo off of the album Holo?",
+                "Yes, that's the song I want to listen to. Please play it on the speaker in the kitchen.",
+                "Please verify the following details are correct. You would like to hear Airplane Mode on the Kitchen speaker. Is this correct?",
+                "No, I'd rather hear it on the speaker in the bedroom.",
+                "Please verify the following details are correct. You would like to hear Airplane Mode on the bedroom speaker. Is this correct?",
+                "Yes, please do that.",
+                "Please enjoy the song.",
+                "Thanks."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.369462966918945
+                ],
+                [
+                    "music or sports",
+                    5.367772459983826
+                ],
+                [
+                    "music",
+                    -2.660139799118042
+                ],
+                [
+                    "an event, music",
+                    -11.201629757881165
+                ],
+                [
+                    "[CLS]",
+                    -14.691997528076172
+                ]
+            ],
+            "context": [
+                "I like Match events: can you help me find an event around Philly?",
+                "There's Eagles Vs Cowboys at Lincoln Financial Field on March 14th at 8 pm",
+                "What is the adress?",
+                "1 Lincoln Financial Field Way",
+                "Do you have other event proposals?",
+                "Of course! Owls Vs Bison, at Lincoln Financial Field, on day after tomorrow at 7:30 pm",
+                "What kind of event is it? What is the address of the place?",
+                "It's a American Football event. The address is 1 Lincoln Financial Field Way",
+                "OK it's good. Now I would like to find another type of event, a Music event for this Sunday",
+                "For day after tomorrow there's Don Broco at The foundry at 8 pm",
+                "Perfect! I want a ticket for this event!",
+                "A ticket for how many people?",
+                "We are 4 people: 4 tickets",
+                "4 tickets for Don Broco, in Philadelphia, for day after tomorrow: do you confirm?",
+                "Yes, I confirm! Which way is the event?"
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "2015"
+            ],
+            "gold": [
+                "2014"
+            ],
+            "top5": [
+                [
+                    "2015",
+                    9.93367052078247
+                ],
+                [
+                    "2015 or 2016",
+                    8.17536973953247
+                ],
+                [
+                    "2012",
+                    7.5503082275390625
+                ],
+                [
+                    "2012 or 2013",
+                    6.764064311981201
+                ],
+                [
+                    "2016",
+                    6.447097301483154
+                ]
+            ],
+            "context": [
+                "I want to hear a good song.",
+                "How about Only You by Ric Hassani from The African Gentleman.",
+                "Do you have something else?",
+                "How about Focus by Ariana Grande from Dangerous Woman.",
+                "How about something from '14?",
+                "How about Addicted by Popcaan from Where We Come From.",
+                "yes that is good."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.2787766456604
+                ],
+                [
+                    "music or sports",
+                    4.72332489490509
+                ],
+                [
+                    "music",
+                    -3.886620879173279
+                ],
+                [
+                    "an event, music",
+                    -11.802511215209961
+                ],
+                [
+                    "[CLS]",
+                    -15.766464233398438
+                ]
+            ],
+            "context": [
+                "I like Match events: can you help me find an event around Philly?",
+                "There's Eagles Vs Cowboys at Lincoln Financial Field on March 14th at 8 pm",
+                "What is the adress?",
+                "1 Lincoln Financial Field Way",
+                "Do you have other event proposals?",
+                "Of course! Owls Vs Bison, at Lincoln Financial Field, on day after tomorrow at 7:30 pm",
+                "What kind of event is it? What is the address of the place?",
+                "It's a American Football event. The address is 1 Lincoln Financial Field Way",
+                "OK it's good. Now I would like to find another type of event, a Music event for this Sunday",
+                "For day after tomorrow there's Don Broco at The foundry at 8 pm",
+                "Perfect! I want a ticket for this event!",
+                "A ticket for how many people?",
+                "We are 4 people: 4 tickets",
+                "4 tickets for Don Broco, in Philadelphia, for day after tomorrow: do you confirm?",
+                "Yes, I confirm! Which way is the event?",
+                "It's in 29 East Allen Street 2nd Floor. Your reservation is confirmed",
+                "Thank you very much! It's all"
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2017"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    1.803209364414215
+                ],
+                [
+                    "2017 or 2018",
+                    1.2426274120807648
+                ],
+                [
+                    "2017",
+                    0.6841687262058258
+                ],
+                [
+                    "2010",
+                    0.019611552357673645
+                ],
+                [
+                    "2010 or 2011",
+                    -2.5345684736967087
+                ]
+            ],
+            "context": [
+                "I'd like to listen to some music. Please find me some pop music from two years ago.",
+                "There are 10 results that fit your criteria. Would you like to hear Airplane Mode by Limbo off of the album Holo?",
+                "Yes, that's the song I want to listen to. Please play it on the speaker in the kitchen.",
+                "Please verify the following details are correct. You would like to hear Airplane Mode on the Kitchen speaker. Is this correct?",
+                "No, I'd rather hear it on the speaker in the bedroom.",
+                "Please verify the following details are correct. You would like to hear Airplane Mode on the bedroom speaker. Is this correct?",
+                "Yes, please do that.",
+                "Please enjoy the song.",
+                "Thanks.",
+                "Do you require any further assistance?",
+                "No, that's all."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2019"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    2.0996527671813965
+                ],
+                [
+                    "2015",
+                    1.1797094643115997
+                ],
+                [
+                    "2017 or 2018",
+                    0.586133599281311
+                ],
+                [
+                    "2015 or 2016",
+                    -0.6315315365791321
+                ],
+                [
+                    "2017",
+                    -0.9181286096572876
+                ]
+            ],
+            "context": [
+                "Hi i need a help, I am interesting in listening songs, Can you find songs in the album Honky Tonk Time Machine?",
+                "Sure, I will help you, I found a 3 songs for you, One of the nice song is Codigo by George Strait in the album Honky Tonk Time Machine.",
+                "Could you tell me what type of song is it?",
+                "It is a Country song",
+                "Any other songs do you have?",
+                "Do you like the song Every Little Honky Tonk Bar by George Strait in the album Honky Tonk Time Machine",
+                "it is from four years ago? What type of music is that?",
+                "It is a country song from the year 2019",
+                "Find another song from 2019",
+                "I got 1 another song for you, Do you like The Weight of the badge by george strait in the album Honky Tonk Time Machine",
+                "Yes that on i liked",
+                "Can i play the song for you?",
+                "yes, play it on speaker in the kitchen"
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    13.620684146881104
+                ],
+                [
+                    "music or sports",
+                    5.711052060127258
+                ],
+                [
+                    "music",
+                    -2.2885204553604126
+                ],
+                [
+                    "an event, music",
+                    -11.125341653823853
+                ],
+                [
+                    "[CLS]",
+                    -15.391895294189453
+                ]
+            ],
+            "context": [
+                "Is there any interesting events you can find for me?",
+                "Which city are you looking for events, and what genre do you prefer, such as music or sports events?",
+                "I am looking for games events near the District of Columbia",
+                "There are 10 events available, one is DC United VS Revolution occurring tomorrow at 8:30 pm at Audi Field.",
+                "Can you tell me more about this event?",
+                "This event is a football match.",
+                "That sounds good, but can you find me other events that take place on the 9th of this month?",
+                "There are 7 events occurring on March 9th, the El Salvador VS Haiti event at RFK Stadium will occur at 8 pm, would you be interested in that?",
+                "What is the address of the event, and can you tell me more about it?",
+                "This event is located at 2400 East Capitol Street Southeast, and it is also a football match.",
+                "On second thought, can you find me music events instead?",
+                "One event on March 9th at 7:30 pm will take place on Union Stage, would you be interested in the Carbon Leaf event?",
+                "Sounds great, just what I am into.",
+                "Would you like to buy tickets for the event?",
+                "Yes, please buy me tickets for the event.",
+                "What amount of tickets would you need?",
+                "Buy me 4 tickets to the event.",
+                "You wish to buy 4 tickets to Carbon Leaf, for March 9th in Washington D.C., correct?",
+                "That is correct, can you give me the event address?"
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "sports"
+            ],
+            "gold": [
+                "music"
+            ],
+            "top5": [
+                [
+                    "sports",
+                    14.086552619934082
+                ],
+                [
+                    "music or sports",
+                    7.567386984825134
+                ],
+                [
+                    "music",
+                    0.9703234136104584
+                ],
+                [
+                    "[CLS]",
+                    -15.423603057861328
+                ],
+                [
+                    "the",
+                    -19.586668014526367
+                ]
+            ],
+            "context": [
+                "Is there any interesting events you can find for me?",
+                "Which city are you looking for events, and what genre do you prefer, such as music or sports events?",
+                "I am looking for games events near the District of Columbia",
+                "There are 10 events available, one is DC United VS Revolution occurring tomorrow at 8:30 pm at Audi Field.",
+                "Can you tell me more about this event?",
+                "This event is a football match.",
+                "That sounds good, but can you find me other events that take place on the 9th of this month?",
+                "There are 7 events occurring on March 9th, the El Salvador VS Haiti event at RFK Stadium will occur at 8 pm, would you be interested in that?",
+                "What is the address of the event, and can you tell me more about it?",
+                "This event is located at 2400 East Capitol Street Southeast, and it is also a football match.",
+                "On second thought, can you find me music events instead?",
+                "One event on March 9th at 7:30 pm will take place on Union Stage, would you be interested in the Carbon Leaf event?",
+                "Sounds great, just what I am into.",
+                "Would you like to buy tickets for the event?",
+                "Yes, please buy me tickets for the event."
+            ],
+            "question": "what is the type of event of buy tickets for an event, Music or Sports"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2019"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    1.332063913345337
+                ],
+                [
+                    "2010",
+                    1.0522907674312592
+                ],
+                [
+                    "2017 or 2018",
+                    -0.4031432867050171
+                ],
+                [
+                    "2015",
+                    -0.5144271403551102
+                ],
+                [
+                    "2017",
+                    -2.124825596809387
+                ]
+            ],
+            "context": [
+                "Hi i need a help, I am interesting in listening songs, Can you find songs in the album Honky Tonk Time Machine?",
+                "Sure, I will help you, I found a 3 songs for you, One of the nice song is Codigo by George Strait in the album Honky Tonk Time Machine.",
+                "Could you tell me what type of song is it?",
+                "It is a Country song",
+                "Any other songs do you have?",
+                "Do you like the song Every Little Honky Tonk Bar by George Strait in the album Honky Tonk Time Machine",
+                "it is from four years ago? What type of music is that?",
+                "It is a country song from the year 2019",
+                "Find another song from 2019",
+                "I got 1 another song for you, Do you like The Weight of the badge by george strait in the album Honky Tonk Time Machine",
+                "Yes that on i liked",
+                "Can i play the song for you?",
+                "yes, play it on speaker in the kitchen",
+                "please confirm the following details: Play the song The weight of the badge on kitchen speaker",
+                "no, play it on my bedroom speaker",
+                "please confirm the following details: play the song The weight of the badge on bedroom speaker",
+                "yes, that's good"
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "two"
+            ],
+            "gold": [
+                "1",
+                "one"
+            ],
+            "top5": [
+                [
+                    "two",
+                    13.036805152893066
+                ],
+                [
+                    "2",
+                    13.035092830657959
+                ],
+                [
+                    "one or two",
+                    10.41122817993164
+                ],
+                [
+                    "1 or 2",
+                    10.366491317749023
+                ],
+                [
+                    "one",
+                    7.824312925338745
+                ]
+            ],
+            "context": [
+                "I would like an apartment with two bathrooms",
+                "In which city?",
+                "I'm looking for the apartment in Santa Rosa",
+                "An apartment with how many bedrooms?",
+                "1 baths and 1 bed rooms"
+            ],
+            "question": "what is the number of baths in the apartment of find an apartment in a city for a given number of bedrooms, 1 or 2 or 3 or 4 or one or two or three or four"
+        },
+        {
+            "pred": [
+                "2018"
+            ],
+            "gold": [
+                "2019"
+            ],
+            "top5": [
+                [
+                    "2018",
+                    1.8922674655914307
+                ],
+                [
+                    "2010",
+                    1.2013797163963318
+                ],
+                [
+                    "2017 or 2018",
+                    0.3123928904533386
+                ],
+                [
+                    "2015",
+                    0.23082730919122696
+                ],
+                [
+                    "2017",
+                    -1.252322018146515
+                ]
+            ],
+            "context": [
+                "Hi i need a help, I am interesting in listening songs, Can you find songs in the album Honky Tonk Time Machine?",
+                "Sure, I will help you, I found a 3 songs for you, One of the nice song is Codigo by George Strait in the album Honky Tonk Time Machine.",
+                "Could you tell me what type of song is it?",
+                "It is a Country song",
+                "Any other songs do you have?",
+                "Do you like the song Every Little Honky Tonk Bar by George Strait in the album Honky Tonk Time Machine",
+                "it is from four years ago? What type of music is that?",
+                "It is a country song from the year 2019",
+                "Find another song from 2019",
+                "I got 1 another song for you, Do you like The Weight of the badge by george strait in the album Honky Tonk Time Machine",
+                "Yes that on i liked",
+                "Can i play the song for you?",
+                "yes, play it on speaker in the kitchen",
+                "please confirm the following details: Play the song The weight of the badge on kitchen speaker",
+                "no, play it on my bedroom speaker"
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2015"
+            ],
+            "gold": [
+                "2014"
+            ],
+            "top5": [
+                [
+                    "2015",
+                    9.230144500732422
+                ],
+                [
+                    "2014 or 2015",
+                    6.920803070068359
+                ],
+                [
+                    "2012",
+                    5.253719091415405
+                ],
+                [
+                    "2012 or 2013",
+                    5.03614068031311
+                ],
+                [
+                    "2013",
+                    4.8178489208221436
+                ]
+            ],
+            "context": [
+                "I want to hear a good song.",
+                "How about Only You by Ric Hassani from The African Gentleman.",
+                "Do you have something else?",
+                "How about Focus by Ariana Grande from Dangerous Woman.",
+                "How about something from '14?",
+                "How about Addicted by Popcaan from Where We Come From.",
+                "yes that is good.",
+                "Please confirm Addicted on the TV.",
+                "Change to play on speaker in the kitchen."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2010"
+            ],
+            "gold": [
+                "2013"
+            ],
+            "top5": [
+                [
+                    "2010",
+                    8.944958686828613
+                ],
+                [
+                    "2018",
+                    1.4732852578163147
+                ],
+                [
+                    "2017 or 2018",
+                    -0.32359743118286133
+                ],
+                [
+                    "2017",
+                    -2.104073405265808
+                ],
+                [
+                    "2012",
+                    -4.576856851577759
+                ]
+            ],
+            "context": [
+                "I want to find a song from about six years back.",
+                "What about Alive by Sia in the This is Acting album?",
+                "What sort of music is it?",
+                "The song is a pop song.",
+                "Yes, that's it.",
+                "Do you want to play this song?",
+                "Yes.",
+                "Could you confirm that you want to play the song Alive on the TV?",
+                "No, put it on the kitchen device.",
+                "Please confirm that you want to play the song Alive on the kitchen speaker.",
+                "Yep, that is right."
+            ],
+            "question": "what is the year in which the song was released of play the selected song on the device, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        },
+        {
+            "pred": [
+                "2010"
+            ],
+            "gold": [
+                "2013"
+            ],
+            "top5": [
+                [
+                    "2010",
+                    9.646717071533203
+                ],
+                [
+                    "2018",
+                    3.8430933952331543
+                ],
+                [
+                    "2017 or 2018",
+                    1.9259292110800743
+                ],
+                [
+                    "2017",
+                    0.020817425101995468
+                ],
+                [
+                    "[CLS]",
+                    -0.6096066236495972
+                ]
+            ],
+            "context": [
+                "I want to find a song from about six years back."
+            ],
+            "question": "what is the year in which the song was released of search for a song, 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018 or 2019"
+        }
+    ]
+}
